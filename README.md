@@ -120,9 +120,9 @@ pip install -r requirements.txt
 
 ---
 # Contributors:
-Nayani Jindal -[Github link](https://github.com/Nayani-j)
-Saloni Singh-[Github link](https://github.com/salonisingh54)
-Siddhima Singh-[Github link](https://github.com/siddhima-singh)
-Sneha Jadhav-[Github link](https://github.com/SnehaJ765)
+1) Nayani Jindal -[Github link](https://github.com/Nayani-j)
+2) Saloni Singh-[Github link](https://github.com/salonisingh54)
+3) Siddhima Singh-[Github link](https://github.com/siddhima-singh)
+4) Sneha Jadhav-[Github link](https://github.com/SnehaJ765)
 
  
