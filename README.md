@@ -19,7 +19,7 @@ This repository contains two main applications designed to enhance healthcare ma
 
 2. **Geofencing Applications**
    - **Main App**: Implements location-based reminders using geofencing technology to track patients or alert for medical emergencies.
-   - **Side App**: Provides location-based patient tracking and trip management, specifically designed for emergency situations (e.g., ambulances, patient transfers).
+   - **Side App**: Provides location-based patient tracking and trip management, specifically designed for emergency situations for caretakers(e.g., ambulances, patient transfers).
 
 ---
 
