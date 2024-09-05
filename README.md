@@ -119,7 +119,7 @@ pip install -r requirements.txt
 - Enhance real-time geofencing alerts for critical healthcare situations.
 
 ---
-#Contributors:
+# Contributors:
 Nayani Jindal -[Github link](https://github.com/Nayani-j)
 Saloni Singh-[Github link](https://github.com/salonisingh54)
 Siddhima Singh-[Github link](https://github.com/siddhima-singh)
