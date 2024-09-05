@@ -4,7 +4,7 @@ import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Initialize the Google Generative AI model
-model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.2, google_api_key="AIzaSyDpb1Ula5KBefhPo3wWr5X00yGOTowJr0M")
+model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.2, google_api_key="")
 
 def loading_data(file_path):
     """
